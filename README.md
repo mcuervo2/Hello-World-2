@@ -1,2 +1,2 @@
 # Hello-World-2
-2nd  repo
+2nd  repository
